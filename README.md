@@ -50,7 +50,32 @@ https://github.com/angular/angular-cli/issues/503
 
 https://stackoverflow.com/questions/46623571/angular-ng-command-not-found/49820551
 
+https://stackoverflow.com/questions/53485885/angular-cli-not-working-in-git-bash-terminal-on-windows
+
 00
+https://stackoverflow.com/questions/40820822/location-of-bashrc-for-bash-on-ubuntu-on-windows-in-windows-10
+
+00
+https://ovinitech.blogspot.com/2017/08/ng-is-not-recognized-as-internal-or.html
+
+00
+https://github.com/angular/angular-cli/issues/5021
+
+00
+https://medium.com/@angela.amarapala/ways-to-fix-bash-ng-command-not-found-7f329745795
+
+00
+JSONPLACEHOLDER FOR FETCHING USERS 
+https://jsonplaceholder.typicode.com/users
+
+00
+HttpClientModule
+https://appdividend.com/2019/06/06/angular-8-httpclient-example-how-to-send-ajax-request-in-angular/
+
+00
+https://www.it-swarm.dev/tr/node.js/npm-err-kod-elifecycle/830100767/
+
+
 
 
 
