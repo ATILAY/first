@@ -2,6 +2,10 @@
 event emitter
 https://www.w3schools.com/nodejs/nodejs_events.asp
 
+00
+https://blog.fullstacktraining.com/resolving-cant-bind-to-ngfor-since-it-isnt-a-known-property-of-element-error-in-angular/
+ngFor cant binding  and @input()   data passing
+
 
 00
 import { FormsModule } from '@angular/forms';
