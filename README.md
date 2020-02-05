@@ -75,7 +75,14 @@ https://appdividend.com/2019/06/06/angular-8-httpclient-example-how-to-send-ajax
 00
 https://www.it-swarm.dev/tr/node.js/npm-err-kod-elifecycle/830100767/
 
+00
+https://www.npmjs.com/package/@angular/cli
 
+when ng serve  not found 
+npm i @angular/cli
+
+00
+https://www.howtogeek.com/196371/master-vlc-with-these-23-keyboard-shortcuts/
 
 
 
