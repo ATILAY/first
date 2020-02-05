@@ -1,5 +1,8 @@
-# first
-first , significant , basic
+00
+event emitter
+https://www.w3schools.com/nodejs/nodejs_events.asp
+
+
 00
 import { FormsModule } from '@angular/forms';
 https://stackoverflow.com/questions/38892771/cant-bind-to-ngmodel-since-it-isnt-a-known-property-of-input
