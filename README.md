@@ -84,6 +84,19 @@ npm i @angular/cli
 00
 https://www.howtogeek.com/196371/master-vlc-with-these-23-keyboard-shortcuts/
 
+00
+flex bootstrap
+https://getbootstrap.com/docs/4.4/utilities/flex/
+
+00
+js splice
+Note: This method changes the original array.
+adds/removes items to/from an array, and returns the removed item(s).
+https://www.w3schools.com/jsref/jsref_splice.asp
+
+00
+
+
 
 
 
