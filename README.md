@@ -1,3 +1,7 @@
+
+00 cal backs Promises RXJS observables ASYC await 
+https://www.youtube.com/watch?v=jgWnccjXR4I
+
 00
 event emitter
 https://www.w3schools.com/nodejs/nodejs_events.asp
