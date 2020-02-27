@@ -1,3 +1,12 @@
+WHAT I HAVE LEARNT
+-----------------------------------
+How to Push Project to Github Repository
+https://www.youtube.com/watch?v=ibNqauPoicg
+----------------------------------
+
+
+
+REACT WEBPACK
 https://www.youtube.com/results?search_query=react+webpack
 
 ----------------------------------------------
@@ -27,27 +36,14 @@ https://opentrackers.org/downloading-ebooks-textbooks/
 
 
 
-
+LEARN CODE ACADEMY REACT JS ANGULAR
 https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw
 
-file:///C:/Users/mir%20ay/Documents/atilay/dersler/Angular%208%20(formerly%20Angular%202)%20-%20The%20Complete%20Guide/angular%208/angular%208/11.%20Changing%20Pages%20with%20Routing/21.%20Important%20Redirection%20Path%20Matching.html
 
-file:///C:/Users/mir%20ay/Documents/atilay/dersler/Angular%208%20(formerly%20Angular%202)%20-%20The%20Complete%20Guide/angular%208/angular%208/11.%20Changing%20Pages%20with%20Routing/3.%20Understanding%20the%20Example%20Project.html
-
-
-file:///C:/Users/mir%20ay/Documents/atilay/dersler/Angular%208%20(formerly%20Angular%202)%20-%20The%20Complete%20Guide/angular%208/angular%208/9.%20Using%20Services%20&%20Dependency%20Injection/12.%20Services%20in%20Angular%206+.html
-
-file:///C:/Users/mir%20ay/Documents/atilay/dersler/Angular%208%20(formerly%20Angular%202)%20-%20The%20Complete%20Guide/angular%208/angular%208/8.%20Course%20Project%20-%20Directives/2.%20Closing%20the%20Dropdown%20From%20Anywhere.html
-
-
-file:///C:/Users/mir%20ay/Documents/atilay/dersler/Angular%208%20(formerly%20Angular%202)%20-%20The%20Complete%20Guide/angular%208/angular%208/7.%20Directives%20Deep%20Dive/6.%20More%20about%20the%20Renderer.html
-
-
+ANGULAR DOC
 https://angular.io/api/core/ViewChild#description
 
 
-
-file:///C:/Users/mir%20ay/Documents/atilay/dersler/Angular%208%20(formerly%20Angular%202)%20-%20The%20Complete%20Guide/angular%208/angular%208/6.%20Course%20Project%20-%20Components%20&%20Databinding/5.%20Make%20sure%20you%20have%20FormsModule%20added!.html
 
 
 
@@ -62,11 +58,7 @@ https://erdincuzun.com/node-js/3-3-eventemitter-sinifi/
 
 
 
-file:///C:/Users/mir%20ay/Documents/atilay/dersler/Angular%208%20(formerly%20Angular%202)%20-%20The%20Complete%20Guide/angular%208/angular%208/5.%20Components%20&%20Databinding%20Deep%20Dive/18.%20@ContentChild()%20in%20Angular%208.html
 
-
-
-file:///C:/Users/mir%20ay/Documents/atilay/dersler/Angular%208%20(formerly%20Angular%202)%20-%20The%20Complete%20Guide/angular%208/angular%208/5.%20Components%20&%20Databinding%20Deep%20Dive/12.%20@ViewChild()%20in%20Angular%208.html
 
 
 
@@ -74,7 +66,6 @@ https://www.w3schools.com/jsref/jsref_splice.asp
 
 
 
-file:///C:/Users/mir%20ay/Documents/atilay/dersler/Angular%208%20(formerly%20Angular%202)%20-%20The%20Complete%20Guide/angular%208/angular%208/3.%20Course%20Project%20-%20The%20Basics/3.%20Installing%20Bootstrap%20Correctly.html
 
 
 https://www.npmjs.com/package/@angular/cli
