@@ -192,10 +192,10 @@ https://www.w3schools.com/jsref/jsref_splice.asp
 
 00
 
------------------------------------
+---
 How to Push Project to Github Repository
 https://www.youtube.com/watch?v=ibNqauPoicg
-----------------------------------
+----
 
 ----------------------------------------------
 book ebook pdf torrent websites free bedava  kitap
