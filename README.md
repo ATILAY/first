@@ -36,6 +36,365 @@ https://www.w3schools.com/nodejs/nodejs_events.asp
 https://erdincuzun.com/node-js/3-3-eventemitter-sinifi/
 
 
+context vs scope  differences
+https://www.youtube.com/watch?v=hDT3IbvH-9I
+
+00
+
+react children
+https://www.youtube.com/watch?v=Sq0FoUPxj_c
+
+
+00
+Array.isArray( _arrayOrVariable_ )
+// return true or false
+
+00
+copying obj  //shallow cloning -->  clones only first level
+let obj = {a:1 , b:2}
+let clone =  Object.assign({} , obj)
+
+let clone2 = { ...obj }   //spread operator //shallow cloning -->  clones only first level
+
+let superClone = JSON.parse( JSON.stringify( obj ) )  //for deep cloning! otherwise second level passed by ref and its dangerous!
+
+
+00
+copying array
+let array = [1,2,3]
+let clone = [].concat(array)
+00
+manipulate same arrray
+array.push([5,6])
+
+00
+JavaScript-Equality-Table/
+
+https://dorey.github.io/JavaScript-Equality-Table/
+
+if (NaN) { /* does not execute */ }
+
+if (undefined) { /* does not execute */ }
+
+if (null) { /* does not execute */ }
+
+if ("") { /* does not execute */ }
+
+if (0) { /* does not execute */ }
+
+if (false) { /* does not execute */ }
+
+OTHERWUSE EXECUTES!!
+
+00
+
+NaN === NaN
+//false
+NaN == NaN
+//false
+typeof NaN
+//"number"
+What's the typeof NaN?
+The type of NaN, which stands for Not a Number is, surprisingly, a number. The reason for this is, in computing, NaN is actually technically a numeric data type. 
+00
+
+null == null
+//true
+null === null
+//true
+typeof null
+"object"
+
+
+00
+
+typeof null // "object"
+
+The null value is technically a primitive, the way "object" or "number" are primitives. This would typically mean that the type of null should also be "null". However, this is not the case because of a peculiarity with the way JavaScript was first defined.
+
+In the first implementation of JavaScript, values were represented in two parts - a type tag and the actual value. There were 5 type tags that could be used, and the tag for referencing an object was 0. The null value, however, was represented as the NULL pointer, which was 0x00 for most platforms. As a result of this similarity, null has the 0 type tag, which corresponds to an object.
+
+000
+
+Array.isArray( [1,2,3] ) // true
+Array.isArray( { a: 1 } ) // false
+
+The typeof an array is an object. In JavaScript, arrays are technically objects; just with special behaviours and abilities. For example, arrays have a Array.prototype.length property, which will return the number of elements in the array.
+
+
+00
+
+What's the typeof class Foo {}?
+
+typeof class Foo {} // "function"
+
+Finally, we have Classes. Classes were introduced in ES2015 (ES6) as a better syntax for prototype-based inheritance. Before Classes, to make an inheritable object, we would have to use a function.
+
+function Dog() { }
+Dog.prototype.bark = function() {
+    alert("woof!");
+}
+
+const snoopy = new Dog();
+snoopy.bark() // alert("woof!")
+
+
+//SAME AS 
+//With Classes, we can create the same object this way -
+
+class Dog {
+    bark() {
+        alert("woof!");
+    }
+}
+
+const snoopy = new Dog();
+snoopy.bark() // alert("woof!")
+
+However, Classes have always just been a syntactical wrapper around the function method. The same function is actually being created, but just with the author writing it in a different, cleaner way. This is why the typeof a Class, is still just a Function.
+
+00
+https://bitsofco.de/javascript-typeof/
+
+00
+
+(function() {
+    'use strict';
+
+    return this;
+}).call(null); // null
+
+
+(function() {
+    'use strict';
+
+    return this;
+})(); // undefined
+
+The first argument for Function.prototype.call is the context, which defines the this value for the execution context of the invoked function, nothing else.
+
+So basically, you're saying that this is referring to null (at least, in ES5 strict mode), but since you don't access this anyway, it makes no difference.
+
+In non-strict mode, this cannot be null, so it's replaced with the global object instead.
+
+https://stackoverflow.com/questions/11659134/applying-a-function-to-null-in-javascript
+
+00
+
+!!!!!!!!!!ECMA ALL DOCUMENTATION!!!!!!
+https://www.ecma-international.org/ecma-262/5.1/
+
+00
+The Abstract Equality Comparison Algorithm
+https://www.ecma-international.org/ecma-262/5.1/#sec-11.9.3
+
+00
+
+when ==  is the issue  it  gets interesting
+
+https://javascript.info/comparison
+
+00
+
+For a non-strict check ==
+There’s a special rule. These two are a “sweet couple”: they equal each other (in the sense of ==), but not any other value.
+
+alert( null == undefined ); // true
+
+00
+Strange result: null vs 0
+Let’s compare null with a zero:
+
+
+
+                               alert( null > 0 );  // (1) false
+alert( null == 0 ); // (2) false
+alert( null >= 0 ); // (3) true
+Mathematically, that’s strange. The last result states that "null is greater than or equal to zero", so in one of the comparisons above it must be true, but they are both false.
+
+The reason is that an equality check == and comparisons > < >= <= work differently. Comparisons convert null to a number, treating it as 0. That’s why (3) null >= 0 is true and (1) null > 0 is false.
+
+On the other hand, the equality check == for undefined and null is defined such that, without any conversions, they equal each other and don’t equal anything else. That’s why (2) null == 0 is false.
+
+00
+
+An incomparable undefined
+The value undefined shouldn’t be compared to other values:
+
+alert( undefined > 0 ); // false (1)
+alert( undefined < 0 ); // false (2)
+alert( undefined == 0 ); // false (3)
+Why does it dislike zero so much? Always false!
+
+We get these results because:
+
+Comparisons (1) and (2) return false because undefined gets converted to NaN and NaN is a special numeric value which returns false for all comparisons.
+The equality check (3) returns false because undefined only equals null, undefined, and no other value.
+Evade 
+
+
+00
+
+5 > 4 → true
+"apple" > "pineapple" → false
+"2" > "12" → true
+undefined == null → true
+undefined === null → false
+null == "\n0\n" → false
+null === +"\n0\n" → false
+Some of the reasons:
+
+Obviously, true.
+Dictionary comparison, hence false. "a" is smaller than "p".
+Again, dictionary comparison, first char of "2" is greater than the first char of "1".
+Values null and undefined equal each other only.
+Strict equality is strict. Different types from both sides lead to false.
+Similar to (4), null only equals undefined.
+Strict equality of different types.
+
+https://javascript.info/comparison
+
+00
+Prototype inheritance
+lizard.__proto__ = dragon;
+
+for ( let prop in lizard ){ console.log( prop )  }
+ 
+//name
+//fight
+//fire
+//sing
+00
+
+hasOwnProperty()
+
+lizard.__proto__ = dragon;
+
+for ( let prop in lizard ){ if( lizard.hasOwnProperty( prop ) ) console.log( prop )  }
+//name
+//fight  -->> others are inherited by prototypical
+
+
+00
+
+let human = {
+	mortal: true
+}
+let socrates = Object.create( human )
+//created prototypical inheritantly
+socrates.age = 45
+
+console.log( human.isPrototypeOf( socrates ) )
+//true
+console.log( socrates )
+//{ age: 45 }
+//--> there is not seen 'mortal' because it have been taken inheritantly prototypical!
+
+00
+typeof {}
+//"object"
+
+typeof Object
+//"function"  --> because it has constructor function to create (wrap) an object
+
+00
+
+Object.__proto__ 
+//null
+
+00
+"string".prototype
+//undefined
+String.prototype
+// yes there is  prototype because String is an constructor func
+typeof String
+//"function"
+
+00
+!!!!!!!!!!!ONLY FUNCTIONS HAVE THE PROTOTYPE PROPERTY!!!!!!!!!!
+00
+
+Date.prototype.lastYear = function(){
+
+	console.log( this )
+	return  this.getFullYear() - 1; 
+	/////!!!!!!!/ -> if I use ()=>{} here  this gonna be crashed because arrow func lexicallay scoped!!
+
+
+}
+new Date('1900-10-10').lastYear()
+//'1899'
+
+
+00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
