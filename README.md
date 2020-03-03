@@ -46,6 +46,24 @@ https://www.youtube.com/watch?v=Sq0FoUPxj_c
 
 
 00
+
+The Request interface of the Fetch API represents a resource request.
+
+https://developer.mozilla.org/en-US/docs/Web/API/Request
+https://developer.mozilla.org/en-US/docs/Web/API/Body
+https://developer.mozilla.org/en-US/docs/Web/API/Body/json
+00
+
+Fetch API
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
+00
+15 Ways to Search Google 96% of People Don’t Know About
+https://www.youtube.com/watch?v=erZ3IyBCXdY
+
+
+
+00
 Array.isArray( _arrayOrVariable_ )
 // return true or false
 
