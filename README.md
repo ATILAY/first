@@ -13,7 +13,8 @@ AJAX and APIS on REACT
 
 https://tr.reactjs.org/docs/faq-ajax.html
 
-
+axios request on react 
+https://medium.com/@baphemot/how-to-make-ajax-requests-in-react-a6a52bb5a8b1
 
 
 
