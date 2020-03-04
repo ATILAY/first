@@ -9,7 +9,9 @@ https://www.youtube.com/results?search_query=react+webpack
 
 
 
+AJAX and APIS on REACT
 
+https://tr.reactjs.org/docs/faq-ajax.html
 
 
 
