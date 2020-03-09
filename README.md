@@ -137,6 +137,9 @@ In the first implementation of JavaScript, values were represented in two parts 
 
 000
 
+ARRAYS
+https://www.freecodecamp.org/news/the-complete-guide-to-loops-in-javascript-f5e242921d8c/
+000
 Array.isArray( [1,2,3] ) // true
 Array.isArray( { a: 1 } ) // false
 
