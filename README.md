@@ -8,6 +8,8 @@ https://www.youtube.com/results?search_query=react+webpack
 WEBPACK PLUGINS RULES
 https://webpack.js.org/concepts/#plugins
 
+WEBPACK REDUX REACT BABEL CONFIG
+https://medium.com/@danilosilvadev/webpack-react-redux-babel-config-in-10-minutes-4ad8c4abc8b2
 
 
 AJAX and APIS on REACT
