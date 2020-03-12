@@ -19,7 +19,8 @@ https://en.reactjs.org/docs/faq-ajax.html
 axios request on react 
 https://medium.com/@baphemot/how-to-make-ajax-requests-in-react-a6a52bb5a8b1
 
-
+position css
+https://www.w3schools.com/css/css_positioning.asp
 
 LEARN CODE ACADEMY REACT JS ANGULAR
 https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw
