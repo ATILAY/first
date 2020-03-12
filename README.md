@@ -12,6 +12,29 @@ WEBPACK REDUX REACT BABEL CONFIG
 https://medium.com/@danilosilvadev/webpack-react-redux-babel-config-in-10-minutes-4ad8c4abc8b2
 
 
+css animation
+https://www.w3schools.com/cssref/css3_pr_animation-iteration-count.asp
+
+css animation shake
+https://stackoverflow.com/questions/36962903/javascript-shake-html-element/36964181
+dom js remove class
+https://www.w3schools.com/howto/howto_js_remove_class.asp
+hide show DOM element
+https://www.geeksforgeeks.org/hide-or-show-elements-in-html-using-display-property/
+
+DOM create element appendchild 
+https://www.w3schools.com/jsref/met_node_appendchild.asp
+DOM several class adding
+https://stackoverflow.com/questions/1988514/javascript-css-how-to-add-and-remove-multiple-css-classes-to-an-element/36117848
+
+http-server   need to install  -g   //globally
+https://www.npmjs.com/package/http-server
+
+vs code change default terminal
+https://stackoverflow.com/questions/44435697/vscode-change-default-terminal
+
+webpack redux react babel config
+https://medium.com/@danilosilvadev/webpack-react-redux-babel-config-in-10-minutes-4ad8c4abc8b2
 AJAX and APIS on REACT
 
 https://en.reactjs.org/docs/faq-ajax.html
@@ -22,15 +45,38 @@ https://medium.com/@baphemot/how-to-make-ajax-requests-in-react-a6a52bb5a8b1
 position css
 https://www.w3schools.com/css/css_positioning.asp
 
+redux without react
+https://medium.com/@alaadawabah/redux-without-react-be9dbc3d7b2
+https://redux.js.org/basics/example/
+https://blog.bam.tech/developer-news/4-ways-to-dispatch-actions-with-redux
+https://github.com/reduxjs/redux/blob/master/examples/counter/src/index.js
+
+APPLYMIDDLEWARE FOR ASYC AWAIT  DATA
+COK ONEMLI!!!!
+https://redux.js.org/api/applymiddleware/
+https://redux.js.org/api/store/
+
+
+DOM button disabled
+https://www.w3schools.com/jsref/prop_pushbutton_disabled.asp
+https://stackoverflow.com/questions/14750078/style-disabled-button-with-css/14750390
+
+
+
+
+
+
 LEARN CODE ACADEMY REACT JS ANGULAR
 https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw
 
+page reload code https://www.w3schools.com/jsref/met_loc_reload.asp
 
 ANGULAR DOC
 https://angular.io/api/core/ViewChild#description
 
 
-
+css to sass converter
+https://css2sass.herokuapp.com/
 
 
 https://blog.fullstacktraining.com/resolving-cant-bind-to-ngfor-since-it-isnt-a-known-property-of-element-error-in-angular/
