@@ -5,7 +5,8 @@ WHAT I HAVE LEARNT
 REACT WEBPACK
 https://www.youtube.com/results?search_query=react+webpack
 
-
+WEBPACK PLUGINS RULES
+https://webpack.js.org/concepts/#plugins
 
 
 
