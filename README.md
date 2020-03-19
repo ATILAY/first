@@ -176,6 +176,10 @@ null === null
 typeof null
 "object"
 
+-------------------------------------
+interesting 1
+https://dev.to/hrastnik/implementing-gravity-and-collision-detection-in-react-native-2hk5
+
 
 00
 
