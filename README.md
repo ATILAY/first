@@ -628,6 +628,234 @@ adds/removes items to/from an array, and returns the removed item(s).
 https://www.w3schools.com/jsref/jsref_splice.asp
 
 00
+The const is inside a class. Move it outside the class and all will be ok.
+
+https://stackoverflow.com/questions/45917365/const-can-only-be-used-in-a-ts-file-react-native/50392303
+
+00
+
+https://tr.reactjs.org/docs/state-and-lifecycle.html
+
+00
+
+https://tr.reactjs.org/docs/handling-events.html
+
+00
+
+https://tr.reactjs.org/docs/components-and-props.html
+
+00
+
+https://tr.reactjs.org/docs/rendering-elements.html
+
+00
+
+https://www.youtube.com/watch?v=-wOXC71KgYI&list=PLeh2GWv22bmQEqQNMmhqOJm9SYyRu5AtI&index=3
+
+00
+
+https://www.youtube.com/channel/UC2xRE4hUCQ3xO3ymEtMh1Hw/playlists
+
+00
+
+react dom elements
+https://tr.reactjs.org/docs/dom-elements.html
+
+00
+
+react-redux
+
+https://react-redux.js.org/
+
+00
+
+react hooks
+https://reactjs.org/docs/hooks-intro.html
+
+00
+
+useActions not working anymore
+
+00
+https://burakkanber.com/blog/modeling-physics-javascript-gravity-and-drag/
+
+javascript physics modelling
+
+00
+useContext
+https://medium.com/@cosmvs/react-usecontext-how-to-update-context-from-child-component-8fa2894eee3d
+
+00
+
+react hook api ref
+https://tr.reactjs.org/docs/hooks-reference.html#usereducer
+
+00
+
+context api react hook
+https://www.taniarascia.com/using-context-api-in-react/
+
+00
+
+react hooks
+https://www.youtube.com/watch?v=tEqNSOhCHLU&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=16
+
+00
+
+jQuery change
+https://api.jquery.com/change/
+
+00
+
+jquery onchange
+https://stackoverflow.com/questions/12185266/javascript-onchange-listener-position-in-html-markup
+
+00
+js collision
+https://www.youtube.com/watch?v=XYzA_kPWyJ8
+
+00
+collision react 
+https://www.youtube.com/results?search_query=collision+react+js
+
+00
+teeter totter
+https://codesandbox.io/s/teeter-totter-16dui?from-embed
+
+00
+
+react hook lifting state up
+https://www.reddit.com/r/reactjs/comments/atjm4z/react_hooks_lifting_state_up/
+
+00
+react gravity
+https://dev.to/hrastnik/implementing-gravity-and-collision-detection-in-react-native-2hk5
+
+00
+react synthetic event
+https://reactjs.org/docs/events.html#touch-events
+
+00
+react hooks
+react useState
+https://www.youtube.com/watch?v=d0plTCQgsXs&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=3
+
+00
+
+react  set clear time interval timeout 
+https://www.youtube.com/watch?v=NAx76xx40jM
+
+00
+
+setİnterval in react
+https://overreacted.io/making-setinterval-declarative-with-react-hooks/
+
+00
+
+jquery random   dropping obj
+https://stackoverflow.com/questions/19333422/create-random-falling-object-in-jquery
+
+00
+rotate ()
+http://processingjs.org/reference/rotate_/
+
+00
+css continuous rotate
+https://codepen.io/vitoralberto/pen/OPYyYB
+
+00
+js keydown event
+https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event
+
+00
+js event keyCode s 
+https://keycode.info/
+
+00
+react keypress
+https://github.com/grommet/grommet/issues/1772
+
+00
+react ref and doms
+https://tr.reactjs.org/docs/refs-and-the-dom.html
+
+00
+
+react styles
+https://stackoverflow.com/questions/35170581/how-to-access-styles-from-react
+
+00
+handle keypress react
+https://www.youtube.com/watch?v=YxsfJoKJZ50
+
+00
+react useRef
+https://www.youtube.com/results?search_query=useref+react
+
+00
+teetter  totter
+https://github.com/rahi-nz/TeeterTotter
+
+00
+js data structures
+https://www.youtube.com/watch?v=sVxBVvlnJsM
+
+00
+https://www.youtube.com/watch?v=dvPybpgk5Y4
+remove duplicates from array
+
+00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 How to Push Project to Github Repository
