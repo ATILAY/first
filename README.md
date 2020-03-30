@@ -15,6 +15,54 @@ https://medium.com/@danilosilvadev/webpack-react-redux-babel-config-in-10-minute
 css animation
 https://www.w3schools.com/cssref/css3_pr_animation-iteration-count.asp
 
+
+00
+react redux firebase
+https://github.com/prescottprue/react-redux-firebase/issues/635
+
+00
+react redux firebase getdata
+https://firebase.google.com/docs/firestore/query-data/get-data
+
+00
+react redux firebase project
+https://www.youtube.com/watch?v=_Y4m2hOP_K8&list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3&index=20
+
+00
+react redux firebase
+https://www.youtube.com/results?search_query=react+redux+firebase
+
+00
+react hooks useEffect
+https://tr.reactjs.org/docs/hooks-effect.html
+
+00
+react redux firebase
+https://medium.com/quick-code/how-to-integrate-react-redux-and-firebase-in-3-simple-steps-c44804a6af38
+
+00
+
+React-Redux: Actions must be plain objects. Use custom middleware for async actions
+https://stackoverflow.com/questions/46765896/react-redux-actions-must-be-plain-objects-use-custom-middleware-for-async-acti
+
+00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 css animation shake
 https://stackoverflow.com/questions/36962903/javascript-shake-html-element/36964181
 dom js remove class
