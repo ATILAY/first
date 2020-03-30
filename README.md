@@ -1,6 +1,73 @@
 WHAT I HAVE LEARNT
 
 
+00
+react redux hooks
+https://react-redux.js.org/api/hooks
+
+redux  combineReducers
+https://redux.js.org/api/combinereducers
+
+redux applymiddleware
+https://redux.js.org/api/applymiddleware/
+
+react redux connect 
+https://react-redux.js.org/api/connect
+
+00
+useEffect
+https://stackoverflow.com/questions/44506207/reactjs-lifecycle-method-inside-a-function-component
+
+00
+firebase storage
+https://stackoverflow.com/questions/38819580/how-to-show-images-in-firebase-storage-by-index-html
+
+00
+firebase
+https://stackoverflow.com/questions/50660975/firebase-storage-getdownloadurl-method-cant-be-resolved
+
+getdownloadUrl
+
+00
+img src
+https://www.w3schools.com/tags/att_img_src.asp
+
+00
+react firebase
+https://www.youtube.com/watch?v=YR4roPyfDQU
+
+00
+react redux
+https://redux.js.org/basics/usage-with-react
+
+
+00
+react redux thunk and TUT
+https://www.youtube.com/watch?v=tcCS4mGAq7Q&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK&index=29
+
+00
+https://www.youtube.com/watch?v=XQ_Op7O6XWA&list=PLeh2GWv22bmQEqQNMmhqOJm9SYyRu5AtI&index=8
+
+react e ex
+
+00
+
+CORS err
+https://www.youtube.com/watch?time_continue=619&v=hxyp_LkKDdk&feature=emb_logo
+
+00
+https://stackoverflow.com/questions/32317154/react-uncaught-typeerror-cannot-read-property-setstate-of-undefined
+
+
+state of null
+00
+
+
+
+
+
+
+
 
 REACT WEBPACK
 https://www.youtube.com/results?search_query=react+webpack
