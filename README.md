@@ -474,6 +474,21 @@ for ( let prop in lizard ){ if( lizard.hasOwnProperty( prop ) ) console.log( pro
 
 00
 
+undefined == undefined
+true
+null == null
+true
+null === null
+true
+undefined === undefined
+true
+null == undefined
+true
+null === undefined
+false
+
+00
+
 let human = {
 	mortal: true
 }
