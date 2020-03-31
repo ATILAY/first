@@ -82,6 +82,10 @@ https://medium.com/@danilosilvadev/webpack-react-redux-babel-config-in-10-minute
 css animation
 https://www.w3schools.com/cssref/css3_pr_animation-iteration-count.asp
 
+00 ajax oldway
+https://dev.to/nikola/making-ajax-calls-in-pure-javascript-the-old-way-ed5
+
+xhr
 
 00
 react redux firebase
