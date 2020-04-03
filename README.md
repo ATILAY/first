@@ -539,6 +539,188 @@ new Date('1900-10-10').lastYear()
 
 
 00
+notes jquery
+
+https://api.jquery.com/on/
+00
+The createDocumentFragment() method creates an imaginary Node object, with all the properties and methods of the Node object.
+
+The createDocumentFragment() method is usefull when you want to extract parts of your document, change, add, or delete, some of the content, and insert it back to your document.
+https://www.w3schools.com/jsref/met_document_createdocumentfragment.asp
+
+00
+https://api.jquery.com/children/
+
+children()
+
+00
+The element method *querySelectorAll()* returns a static NodeList. They look like arrays but are not.
+https://medium.com/@layne_celeste/htmlcollection-vs-nodelist-4b83e3a4fb4b
+
+00
+The remove() method removes the selected elements, including all text and child nodes.
+
+This method also removes data and events of the selected elements.
+
+Tip: To remove the elements without removing data and events, use the detach() method instead.
+
+Tip: To remove only the content from the selected elements, use the empty() method.
+https://www.w3schools.com/jquery/html_remove.asp
+
+00
+The .append() method inserts the specified content as the last child of each element in the jQuery collection (To insert it as the first child, use .prepend()).
+https://api.jquery.com/append/
+
+00
+prop(): This method provides an simple way to track down the status of checkboxes. It works well in every condition because every checkbox has checked property which specifies its checked or unchecked status.
+
+is(): This method is also very simple and easy to use. By using this we can easily find whether a checked box is checked or not.
+
+https://www.geeksforgeeks.org/how-to-check-whether-a-checkbox-is-checked-in-jquery/
+
+00
+https://api.jquery.com/checked-selector/
+
+https://api.jquery.com/checked-selector/
+
+00
+https://api.jquery.com/animate/
+animate()
+
+00
+Get the current coordinates of the first element in the set of matched elements, relative to the document.
+offset()
+
+00
+https://www.w3schools.com/jquery/html_addclass.asp
+addClass()
+s
+00
+A function to execute each time the event is triggered.
+https://api.jquery.com/scroll/
+
+Move checkboxes on checked jQuery
+https://stackoverflow.com/questions/38841887/move-checkboxes-on-checked-jquery
+
+00
+How to check a checkbox is checked or not using jQuery
+
+<script>
+    $(document).ready(function(){
+        $('input[type="checkbox"]').click(function(){
+            if($(this).prop("checked") == true){
+                alert("Checkbox is checked.");
+            }
+            else if($(this).prop("checked") == false){
+                alert("Checkbox is unchecked.");
+            }
+        });
+    });
+</script>
+
+https://www.tutorialrepublic.com/faq/how-to-check-a-checkbox-is-checked-or-not-using-jquery.php
+
+<script>
+    $(document).ready(function(){
+        $('input[type="checkbox"]').click(function(){
+            if($(this).is(":checked")){
+                alert("Checkbox is checked.");
+            }
+            else if($(this).is(":not(:checked)")){
+                alert("Checkbox is unchecked.");
+            }
+        });
+    });
+</script>
+
+00
+How to make HTML input tag only accept numerical values?
+https://stackoverflow.com/questions/13952686/how-to-make-html-input-tag-only-accept-numerical-values
+
+00
+https://api.jquery.com/prop/
+
+Get the value of a property for the first element in the set of matched elements or set one or more properties for every matched element.
+.prop()
+
+00
+https://www.mutuallyhuman.com/blog/keydown-is-the-only-keyboard-event-we-need/
+
+00
+jquery selector advanced 1
+https://www.tutorialspoint.com/jquery/selector-multiple-elements.htm
+
+00
+
+/*
+$('#search_brand').keyup(function(e){
+    //console.log(e.target.value);
+    var value = e.target.value;
+    //console.log(e);
+    var m = "marka1";
+    var matched = $( `input[name^="${value}"]` )
+    //console.log(matched.length);
+    if(matched.length > 0){
+        //$('<div>hello</div>').insertAfter('#search_brand');
+        var parentUl = matched.closest("ul") 
+        $("#search-match").append( parentUl.html() )
+
+        
+        parentUl.insertAfter( "#search_brand" );
+        //$('')(`${matched}`)
+        //console.log(parentUl.html())
+        
+    }
+    //console.log($( `input[name="${val}"]` ))
+    //    :contains(is)
+
+    //console.log($( `input:contains(${val})` ).val())
+    //console.log($( `input[name]` ))
+    //var value2 = $("input[name]")[0].val();
+    // console.log(typeof  val)
+    // console.log($("input[name]"))
+    //console.log()
+  });
+*/
+
+00
+Host a website in google drive with a custom domain
+https://www.youtube.com/watch?v=qtQ9TvQLKjc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
