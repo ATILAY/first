@@ -1194,6 +1194,8 @@ https://www.bookyards.com/en?__cf_chl_jschl_tk__=61a8d6074e9d03c966402b5f1d6498d
 https://www.seedpeer.me/home
 http://copypasteprogrammers.com/best-torrent-sites-download-e-books-html/
 
+https://scanlibs.com/
+
 https://opentrackers.org/downloading-ebooks-textbooks/
 ---------------------------------------------------------
 
