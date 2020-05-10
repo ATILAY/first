@@ -1193,7 +1193,7 @@ https://ww1.torrent9.is/torrents_ebook.html
 https://www.bookyards.com/en?__cf_chl_jschl_tk__=61a8d6074e9d03c966402b5f1d6498d967c648ef-1582755191-0-AVJatS0VbT66SnP51yuBt_Z3PjLaU4CcfJrRI5qNTTUOlz09F35DMsS1uWRdNCt6eA_KWQQX0mG8EPHGzsPy3FeTuIlodGQRiCmp5NzSQC7HH-9NevHeTAWbi6slMCF0PAtfHdmfc4g4XzDuGZ67nxXfmgPbh4DBtDwE-paU_loHYU0V_BdW5Kyv6uUOQSX8e1sRuQ_DPYcMI4yS4iJ_f_w3CmLT2HfgHa-IW5WXpJEfGNRbD7dNicZEPNDFVcO1-wDLE1J2XV2kM7PDhlkkNRc
 https://www.seedpeer.me/home
 http://copypasteprogrammers.com/best-torrent-sites-download-e-books-html/
-
+https://link.springer.com/search?facet-content-type=%22Book%22&package=openaccess&facet-discipline=%22Economics%22
 https://scanlibs.com/
 
 https://opentrackers.org/downloading-ebooks-textbooks/
