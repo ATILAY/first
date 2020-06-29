@@ -15,6 +15,9 @@ react redux connect
 https://react-redux.js.org/api/connect
 
 00
+https://www.w3schools.com/jsref/prop_loc_origin.asp
+javascript windows location property
+00
 useEffect
 https://stackoverflow.com/questions/44506207/reactjs-lifecycle-method-inside-a-function-component
 
