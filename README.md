@@ -585,22 +585,10 @@ https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-man
 on git terminal go to commit previously that you want
 https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit
 
-trello gorevleri
-progrma setup
-Idiomatic Redux makale
-==============
-bu sayfada next button u en asagıda da olsa iyi olur
-https://mobile.useinsider.com/campaigns/new/single/clone/52964
+
 ---
-editlemelrde back tusu  calısmıyor
-----------
-browserin geri tusuyla dondugumde de  en sonki sayfay atıyor , kaldıgım sayfaya atmıyor
-----
-https://mobile.useinsider.com/campaigns/new/cart_reminder
-linkte add rule butonu calısmıyor
-----------
-https://mobile.useinsider.com/deep_links  bu adreste Key degerinin kısıtlamaları neler?
----
+
+
 vsl nasıl setup arastır
 -------
 wsl e ubuntu nasıl kurarum
