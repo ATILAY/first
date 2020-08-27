@@ -465,7 +465,1269 @@ for ( let prop in lizard ){ console.log( prop )  }
 //fire
 //sing
 00
+00
+https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
 
+00
+https://www.w3schools.com/cssref/css3_pr_box-sizing.asp
+00
+https://stackoverflow.com/questions/34930735/pros-cons-of-using-redux-saga-with-es6-generators-vs-redux-thunk-with-es2017-asy/34933395
+
+00
+
+https://stackoverflow.com/questions/16148580/assign-variable-value-inside-if-statement
+00
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim#:~:text=The%20trim()%20method%20removes,%2C%20CR%2C%20etc.).
+00
+
+https://stackoverflow.com/questions/29968499/vertical-rulers-in-visual-studio-code
+00
+
+
+
+
+
+
+
+
+00
+audio tag
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_audio
+00
+
+https://stackoverflow.com/questions/885414/how-to-understand-nil-vs-empty-vs-blank-in-ruby
+ruby  nil  blank empty
+
+
+00
+selamlar, localStorage'daki bir datanın _expires değerini nasıl çekebiliriz yeni apide
+JSON.parse(localStorage.getItem(storageName) || '{}')._expires
+
+00
+
+
+
+
+
+
+
+
+
+
+
+
+
+00
+div:nth-of-type(2) {
+  flex-basis: 100px;
+}
+https://www.w3schools.com/cssref/css3_pr_flex-basis.asp
+
+00
+
+---------------
+                let button = newChildNodes.last();
+                let bucketElementKey = Object.keys(requiredErrorTextElement)[0];
+                requiredErrorTextElement[bucketElementKey][KEY_FIELD_PREFIX] = button.get(KEY_FIELD_PREFIX);
+                newChildNodes = newChildNodes.set(button.get(KEY_FIELD_PREFIX), fromJS(Object.values(requiredErrorTextElement)[0]));
+                button = button.set(KEY_FIELD_PREFIX, bucketElementKey);
+                newChildNodes = newChildNodes.set(bucketElementKey, button);
+              }
+              return newChildNodes;
+----------------------------s
+00
+git stash hata verirse cozum
+https://stackoverflow.com/questions/9282632/git-index-lock-file-exists-when-i-try-to-commit-but-cannot-delete-the-file
+
+00
+The align-content property modifies the behavior of the flex-wrap property. It is similar to align-items, but instead of aligning flex items, it aligns flex lines.
+
+
+00
+
+
+ruby
+https://apidock.com/ruby/Object/is_a%3F
+
+00
+object key in  for statement dongusu
+	  // decideParamsAreEmptyOrNot(eventParams) {
+  //   const decideArray = [];
+  //   for (let i = 0; i < eventParams.length; i++) {
+  //     const currentObj = eventParams[i];
+  //     for (const key in currentObj) {
+  //       if (currentObj[key] === '') {
+  //         decideArray.push(false);
+  //       }
+  //     }
+  //   }
+  //   const resultBoolean = decideArray.every(c => c === true);
+  //   return resultBoolean;
+  // }
+
+    //const eventParams = this.props.displayInApp.eventParams;
+    // if ((eventParams.length !== 0) && (!this.decideParamsAreEmptyOrNot(eventParams))) {
+    //   this.props.showNotification('error', 'Error!', FILL_ALL);
+    // } else {
+    //   this.handleStepChange(newStepIndex)();
+    // }
+//inappeventempty
+	    // if ((this.props.displayInApp.eventParams.length !== 0) && (!this.decideParamsAreEmptyOrNot(this.props.displayInApp.eventParams))) {
+    //   this.props.showNotification('error', 'Error!', FILL_ALL);
+    //   return true;
+    // }
+//
+00
+git branch cıkma
+https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
+
+00
+on git terminal go to commit previously that you want
+https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit
+
+trello gorevleri
+progrma setup
+Idiomatic Redux makale
+==============
+bu sayfada next button u en asagıda da olsa iyi olur
+https://mobile.useinsider.com/campaigns/new/single/clone/52964
+---
+editlemelrde back tusu  calısmıyor
+----------
+browserin geri tusuyla dondugumde de  en sonki sayfay atıyor , kaldıgım sayfaya atmıyor
+----
+https://mobile.useinsider.com/campaigns/new/cart_reminder
+linkte add rule butonu calısmıyor
+----------
+https://mobile.useinsider.com/deep_links  bu adreste Key degerinin kısıtlamaları neler?
+---
+vsl nasıl setup arastır
+-------
+wsl e ubuntu nasıl kurarum
+--------
+wsl  go nodejs ruby yi nasıl kurarım ubuntu wsl e
+-----
+--------------------------------------------------------
+
+    //burası
+    //console.log("elementByPage", elementByPage);  
+    elementByPage.sort( (first,second)=>{
+      if(first[1][ELEMENT_TYPE_PREFIX] === CLOSE_BUTTON_ELEMENT_TYPE_PREFIX) return -1;
+    });
+    //s
+-----------------------------------------------------------
+00
+BOX SIZING  COOL TUTORIAL
+https://www.youtube.com/watch?v=EfCE-a31OiM
+https://www.youtube.com/watch?v=WlGQdgy-M6w
+
+
+00
+https://stackoverflow.com/questions/16754608/cause-line-to-wrap-to-new-line-after-100-characters/16754732
+word-wrapp
+00
+https://webdesignerwall.com/tutorials/word-wrap-force-text-to-wrap
+css word-wrap
+
+WSL ve Ubuntu'dan sonra
+RVM - Ruby Version Manager
+NVM - Node Version Manager
+Mysql5.7
+redis-server
+---------
+WSL ve Ubuntu'dan sonra
+RVM - Ruby Version Manager ~ ruby2.3.1
+NVM - Node Version Manager ~ node9.5.0
+Mysql5.7
+redis-server
+-------
+ruby 2.3.1
+node v9.5
+go1.13.6
+---------
+
+000
+IMMUTABLE JS IMPORTANT!
+https://immutable-js.github.io/immutable-js/
+000
+IMMUTABLE JS IMPORTANT!
+var y = x.update(0, (element) => {
+  return { name : "bar"};
+});
+
+https://stackoverflow.com/questions/36138740/updating-objects-in-list-in-immutablejs
+
+000
+IMMUTABLE JS IMPORTANT!
+https://untangled.io/immutable-js-get-set-update-and-delete-data-from-maps/
+
+000
+IMMUTABLE JS IMPORTANT!
+https://immutable-js.github.io/immutable-js/docs/#/
+
+000
+IMMUTABLE JS IMPORTANT!
+https://immutable-js.github.io/immutable-js/docs/#/remove
+
+
+000
+IMMUTABLE JS IMPORTANT!
+var result = map.find(function(obj){return obj.get('id') === 4;});
+https://stackoverflow.com/questions/29124038/how-do-i-get-a-specific-object-from-an-immutable-js-map-by-value
+
+
+000
+IMMUTABLE JS IMPORTANT!
+const newArr = arr.update(
+  arr.findIndex(i => i.id === 'id03'),
+  item => Object.assign({}, item, { enable: false }) 
+ )
+https://stackoverflow.com/questions/40615035/immutable-js-how-to-find-an-object-in-an-array-by-specify-property-value
+
+
+000
+IMMUTABLE JS IMPORTANT!
+var result = map.find(function(obj){return obj.get('id') === 4;});
+https://stackoverflow.com/questions/29124038/how-do-i-get-a-specific-object-from-an-immutable-js-map-by-value
+
+00
+js splice
+https://www.w3schools.com/jsref/jsref_findindex.asp
+
+array.findIndex(function(currentValue, index, arr), thisValue)
+The findIndex() method returns the index of the first element in an array that pass a test (provided as a function).
+
+The findIndex() method executes the function once for each element present in the array:
+
+If it finds an array element where the function returns a true value, findIndex() returns the index of that array element (and does not check the remaining values)
+Otherwise it returns -1
+Note: findIndex() does not execute the function for array elements without values.
+
+Note: findIndex() does not change the original array.
+
+00
+js splice 
+
+The splice() method adds/removes items to/from an array, and returns the removed item(s).
+
+Note: This method changes the original array.
+
+https://www.w3schools.com/jsref/jsref_splice.asp
+
+00
+The slice() method returns the selected elements in an array, as a new array object.
+
+The slice() method selects the elements starting at the given start argument, and ends at, but does not include, the given end argument.
+
+Note: The original array will not be changed.
+https://www.w3schools.com/jsref/jsref_slice_array.asp
+
+
+00
+
+
+000
+https://www.youtube.com/watch?v=WbwP4w6TpCk
+memoization js
+
+00
+https://www.youtube.com/watch?v=t2CEgPsws3U
+data structures and algorthm
+00
+https://www.w3schools.com/jsref/jsref_localecompare.asp
+00
+https://stackoverflow.com/questions/7161860/how-to-move-the-current-working-branch-to-master-branch-in-git
+git branch
+
+00
+
+
+00
+By default, the sort() method sorts the values as strings in alphabetical and ascending order.
+This works well for strings ("Apple" comes before "Banana"). However, if numbers are sorted as strings, "25" is bigger than "100", because "2" is bigger than "1".
+Because of this, the sort() method will produce an incorrect result when sorting numbers.
+
+You can fix this by providing a "compare function" (See "Parameter Values" below).
+Note: This method changes the original array.
+compareFunction	--> Optional. A function that defines an alternative sort order. The function should return a negative, zero, or positive value, depending on the arguments, like:
+function(a, b){return a-b}
+https://www.w3schools.com/jsref/jsref_sort.asp
+
+Sort numbers in an array in ascending order:
+
+var points = [40, 100, 1, 5, 25, 10];
+points.sort(function(a, b){return a-b});
+
+Sort numbers in an array in descending order:
+
+00
+meterial ui
+https://material-ui.com/api/typography/
+
+00 covid api
+https://covid19.mathdro.id/api/daily
+
+00
+https://daveceddia.com/usestate-hook-examples/
+react hooks
+
+00
+https://www.w3schools.com/jsref/jsref_substring.asp
+
+00
+https://www.w3schools.com/cssref/css_selectors.asp
+important advance css selectors
+
+00
+https://code-maven.com/create-and-download-csv-with-javascripts
+00
+https://html.com/attributes/a-href/
+00
+Map
+https://developer.mozilla.org/tr/docs/Web/JavaScript/Reference/Global_Objects/Map
+
+00
+http://www.mergely.com/editor
+online diff  showing
+
+00
+async  func in useEffect
+https://medium.com/javascript-in-plain-english/how-to-use-async-function-in-react-hook-useeffect-typescript-js-6204a788a435
+
+00
+https://material-ui.com/components/grid/
+material ui
+00
+
+var points = [40, 100, 1, 5, 25, 10];
+points.sort(function(a, b){return b-a});
+
+Sort an array alphabetically, and then reverse the order of the sorted items (descending):
+
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.sort();
+fruits.reverse();
+
+The sort() method sorts the elements of an array in place and returns the sorted array. The default sort order is ascending, built upon converting the elements into strings, then comparing their sequences of UTF-16 code units values.
+
+arr.sort([compareFunction])
+
+00
+https://developer.mozilla.org/en-US/docs/Web/CSS/white-space
+
+00
+https://stackoverflow.com/questions/16271172/mixing-strings-and-variables-in-ruby-output
+
+00
+Changing custom CSS properties dynamically with JavaScript
+https://www.youtube.com/watch?v=fVTb_6_JiXk
+
+00
+e.target.style.setProperty
+https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration/setProperty
+
+00
+pageX
+clientX
+screenX
+https://stackoverflow.com/questions/6073505/what-is-the-difference-between-screenx-y-clientx-y-and-pagex-y
+
+00
+cross browser test
+https://www.quirksmode.org/dom/w3c_cssom.html#t03
+
+00
+https://tympanus.net/codrops/css_reference/word-wrap/
+00
+Git merge master into feature branch
+https://stackoverflow.com/questions/16955980/git-merge-master-into-feature-branch
+
+00
+Is it possible to sort a ES6 map object?
+https://stackoverflow.com/questions/31158902/is-it-possible-to-sort-a-es6-map-object
+00
+https://developer.mozilla.org/tr/docs/Web/JavaScript/Reference/Global_Objects/Map
+00
+https://www.reddit.com/r/javascript/comments/2z2hpm/is_there_a_way_to_sort_a_map/
+00
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+00
+https://developer.mozilla.org/tr/docs/Web/JavaScript/Reference/Global_Objects/Array/pop
+pop()
+
+00
+How do i sort (swap) items inside an Immutable Map?
+https://stackoverflow.com/questions/40351853/how-do-i-sort-swap-items-inside-an-immutable-map
+list.set('ids', list.get('ids').splice(2, 0, list.get('ids').splice(1, 1)[0])
+
+
+00
+
+
+00
+Dynamically add textbox, radio button in html using JavaScript
+https://www.youtube.com/watch?v=LrPVK5LI91Q
+
+00
+Nested For Loop Important for Dynamic Array - JavaScript Tutorial Part - 12
+https://www.youtube.com/watch?v=L7nVZZQEnZU
+
+00
+react components are pure!
+https://tr.reactjs.org/docs/components-and-props.html
+
+00
+https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
+
+00
+JSON - Dynamic Dependent Dropdown List using Jquery and Ajax
+https://www.youtube.com/watch?v=1ebJyK6tocI
+
+00
+https://www.youtube.com/watch?v=0AjIZXSnCzs
+dynamically load js
+
+00
+Javascript : JSON Object(Dynamic Create, Read, Update, Delete)
+https://www.youtube.com/watch?v=BQOOb37cEAY
+
+00
+https://towardsdatascience.com/passing-data-between-react-components-parent-children-siblings-a64f89e24ecf
+react passing data 
+00
+jquery attr()
+https://www.youtube.com/watch?v=pFn6dpMBsoU
+
+00
+Create Dynamic Lists using Javascript
+https://www.youtube.com/watch?v=aqHQcdMTaHQ
+
+00
+JavaScript Create HTML Element: How to dynamically add tags to your pages
+https://www.youtube.com/watch?v=VsXCK_2DJzA
+
+00
+js object methods detailly
+https://www.youtube.com/results?search_query=javascript+object+methods&sp=eAE%253D
+
+00
+higher order func and arrays 
+https://www.youtube.com/watch?v=rRgD1yVwIvE&t=3s
+
+00
+Object keys, values, and entries methods
+https://www.youtube.com/watch?v=VmicKaGcs5g
+
+00
+Dynamic imports  JS
+https://www.youtube.com/watch?v=km_lcTUgrsE
+
+00
+Render HTML dynamically using AJAX - JavaScript Tutorial
+https://www.youtube.com/watch?v=cva5NQTnbu4
+
+00
+JS EVENT PLAYLIST
+https://www.youtube.com/watch?v=EaRrmOtPYTM&list=PLyuRouwmQCjnEupVi5lpP6VrLg-eO-Zcp
+
+
+00
+data structures and algorithms javascript
+https://www.youtube.com/results?search_query=data+structures+and+algorithms+javascript
+
+00
+
+The stopPropagation() method prevents propagation of the same event from being called.
+
+Propagation means bubbling up to parent elements or capturing down to child elements.
+https://www.w3schools.com/jsref/event_stoppropagation.asp
+
+
+
+
+
+
+00
+e.target.style.setProperty(propertyName, value, priority);
+https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration/setProperty
+
+00
+Output the coordinates of the mouse pointer when the mouse button is clicked on an element:
+https://www.w3schools.com/jsref/event_pagex.asp
+
+00
+cross browser test
+https://www.quirksmode.org/dom/w3c_cssom.html#t03
+
+
+00
+https://www.youtube.com/watch?v=6Xwo5mVxDqI
+reselect with redux
+
+00
+scss example
+https://www.youtube.com/watch?v=ZU0wY6L1d7U
+
+00
+Get coordinates of the mouse pointer, relative to the screen, when the mouse button is clicked on an element:
+
+https://www.w3schools.com/jsref/event_screenx.asp
+
+00
+js reduce method
+https://www.w3schools.com/jsref/jsref_reduce.asp
+
+00
+
+mouseevent pageX
+https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_event_mouse_pagexy
+
+00
+sj dynamic imports
+https://www.youtube.com/watch?v=2KdeCtOdKxM
+
+00
+https://www.w3schools.com/jsref/jsref_slice_array.asp
+slice 
+
+
+
+00
+The every() method checks if all elements in an array pass a test (provided as a function).
+
+The every() method executes the function once for each element present in the array:
+
+If it finds an array element where the function returns a false value, every() returns false (and does not check the remaining values)
+If no false occur, every() returns true
+Note: every() does not execute the function for array elements without values.
+
+Note: every() does not change the original array
+https://www.youtube.com/watch?v=6Xwo5mVxDqI
+
+00
+The shift() method removes the first item of an array.
+
+Note: This method changes the length of the array.
+
+Note: The return value of the shift method is the removed item.
+
+Tip: To remove the last item of an array, use the pop() method.
+
+Note: this method will change the original array.
+
+https://www.w3schools.com/jsref/jsref_shift.asp
+
+00
+
+The reduce() method reduces the array to a single value.
+
+The reduce() method executes a provided function for each value of the array (from left-to-right).
+
+The return value of the function is stored in an accumulator (result/total).
+
+Note: reduce() does not execute the function for array elements without values.
+
+Note: this method does not change the original array.
+https://www.w3schools.com/jsref/jsref_reduce.asp
+
+00
+
+
+
+
+
+
+----------------------------
+
+00
+css triangles
+https://stackoverflow.com/questions/17473456/center-align-triangle-along-with-text
+
+00
+https://www.w3schools.com/jsref/jsref_tolocalestring.asp
+tolocaleString
+
+00
+https://stackoverflow.com/questions/36122034/jsx-react-html5-input-slider-doesnt-work
+
+00
+https://stackoverflow.com/questions/13933157/what-is-the-difference-between-and
+
+
+00
+https://www.youtube.com/watch?v=1WEdbr_Es1g
+react proptypes
+
+
+00
+
+https://stackoverflow.com/questions/4244896/dynamically-access-object-property-using-variable
+js obj property dynamic reach
+00
+https://stackoverflow.com/questions/33381029/react-how-to-pass-html-tags-in-props
+
+00
+https://reactjs.org/docs/jsx-in-depth.html#html-entities
+
+00
+https://redux.js.org/recipes/using-immutablejs-with-redux
+
+00
+https://medium.com/@pearlmcphee/selectors-react-redux-reselect-9ab984688dd4
+
+00
+https://stackoverflow.com/questions/33312922/what-is-the-difference-between-immutablejs-map-and-fromjs
+
+00
+https://devdocs.io/immutable/
+
+00
+
+
+00
+[].some()
+https://www.w3schools.com/jsref/jsref_some.asp
+
+00
+https://www.w3schools.com/js/js_object_es5.asp
+
+Object.key(myobj)
+
+00
+The shift() method removes the first item of an array.
+
+Note: This method changes the length of the array.
+
+Note: The return value of the shift method is the removed item.
+
+Tip: To remove the last item of an array, use the pop() method.
+
+Note: this method will change the original array.
+https://www.w3schools.com/jsref/jsref_shift.asp
+
+00
+The every() method checks if all elements in an array pass a test (provided as a function).
+
+The every() method executes the function once for each element present in the array:
+
+If it finds an array element where the function returns a false value, every() returns false (and does not check the remaining values)
+If no false occur, every() returns true
+Note: every() does not execute the function for array elements without values.
+
+Note: every() does not change the original array
+https://www.w3schools.com/jsref/jsref_every.asp
+
+00
+Here, d.get('address') is immutable. It's value cannot change to any other objects. We can only create a new Object from the existing object using the Immutable.Map.set() function of ImmutableJS
+https://stackoverflow.com/questions/33312922/what-is-the-difference-between-immutablejs-map-and-fromjs
+
+00
+https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2#.z1g1ofrsi
+Immutable.js, persistent data structures and structural sharing
+
+00
+Note that Immutable.JS objects do have a toJS() method, which returns the data as a plain JavaScript data structure, but this method is extremely slow, and using it extensively will negate the performance benefits that Immutable.JS provides
+https://redux.js.org/recipes/using-immutablejs-with-redux
+USE WİTH SELECTORS
+THAT MEANS !!!!!!!!!!!!!
+
+00
+https://stackoverflow.com/questions/33381029/react-how-to-pass-html-tags-in-props
+
+!!!!!!!!!!!!!!!!
+
+00
+
+
+
+00
+The filter() method creates an array filled with all array elements that pass a test (provided as a function).
+https://www.w3schools.com/jsref/jsref_filter.asp
+00
+https://stackoverflow.com/questions/31036830/failed-to-load-resource-error-when-loading-external-scripts
+00
+Neither of the answers here helped me. The problem was: I was using the slim build of jQuery, which had some things removed, ajax being one of them.
+
+The solution: Just download the regular (compressed or not) version of jQuery here and include it in your project.
+https://stackoverflow.com/questions/18271251/typeerror-ajax-is-not-a-function
+
+00
+https://www.w3schools.com/jsref/jsref_touppercase.asp
+touppercase
+
+00
+https://www.w3schools.com/xml/xpath_syntax.asp
+00
+firebase js docs
+https://firebase.google.com/docs/reference/js?authuser=0
+
+
+00
+
+stopPropagation()
+
+stops the event bubbling
+
+https://www.w3schools.com/jsref/event_stoppropagation.asp
+
+000
+
+event remove --_> off()
+
+https://www.w3schools.com/jquery/event_off.asp
+
+https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_event_off
+
+00
+https://www.w3schools.com/js/js_ajax_http.asp
+
+ajax xmlhttprequest
+
+00
+https://www.w3schools.com/jquery/eff_slidetoggle.asp
+
+slideToggle()
+
+00
+
+js weird and awesome parts     awesome teaching video playlist
+https://www.youtube.com/watch?v=fjJoX9F_F5g&list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_&index=5
+
+00
+js this topic awesome tutorial!!!!
+https://www.youtube.com/watch?v=gvicrj31JOM
+
+00
+
+js factory func  awesome tutorial
+https://www.youtube.com/watch?v=jpegXpQpb3o&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=8
+
+00
+
+constructor func  awesome tutarial!!
+https://www.youtube.com/watch?v=23AOrSN-wmI&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=9
+
+00
+
+getter setter  in js awesome tutorial!!
+https://www.youtube.com/watch?v=bl98dm7vJt0&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=10
+https://www.youtube.com/watch?v=bl98dm7vJt0&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=10
+
+00
+
+awesome tut  for js value vs reference types ---> for js  primatives vs obj types !!!
+
+https://www.youtube.com/watch?v=fD0t_DKREbE&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=11
+
+00
+
+scope local vs global  good tut video
+
+https://www.youtube.com/watch?v=iJKkZA215tQ&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=12
+
+00
+
+let vs var differences tut video 
+https://www.youtube.com/watch?v=XgSjoHgy3Rk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=13
+
+00
+
+clonning an obj , obj.assign() operator , for( let key in obj) approach ... { ...spread_operator } awesome!!!!!!
+
+https://www.youtube.com/watch?v=H1NmJIv1A2Y&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=14
+
+000
+
+temp literals video
+
+https://www.youtube.com/watch?v=NgF9-pdTDGs&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=16
+
+00
+
+js array filter
+https://www.youtube.com/watch?v=4_iT6EGkQfk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=17
+
+00
+
+chaining  methods -- boj to array to number to obj transformation -- also  map()
+https://www.youtube.com/watch?v=G3BS3sh3D8Q&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=18
+
+00
+reduce()
+https://www.youtube.com/watch?v=g1C40tDP0Bk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=19
+
+00
+
+JavaScript Objects And Array Functions
+
+https://www.youtube.com/watch?v=Xal65C7pxVM
+
+00
+
+hoisting --kaldırac--- fastest browser loading     named func  and   anonymous func
+
+https://www.youtube.com/watch?v=ppMlvGMT2qE&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB&index=18
+
+!!
+
+00
+redux saga fetch api
+https://medium.com/@lavitr01051977/make-your-first-call-to-api-using-redux-saga-15aa995df5b6
+
+00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+has class
+https://www.w3schools.com/jquery/html_hasclass.asp
+
+00
+toggle    related to visibility of elements
+https://www.w3schools.com/jquery/eff_toggle.asp
+
+00
+The two properties ( word-break and word-wrap ) differ rules and overflow of words: as mentioned earlier, word-wrap is used to break words that overflow their container, while the word-break property breaks all words at the end of a line, even those that would normally wrap onto another line and wouldn't overflow their 
+https://tympanus.net/codrops/css_reference/word-wrap/
+
+
+00
+dom nextelementsibling
+https://www.w3schools.com/jsref/prop_element_nextelementsibling.asp
+
+00
+The filter() method creates an array filled with all array elements that pass a test (provided as a function).
+
+https://www.w3schools.com/jsref/jsref_filter.asp
+
+00
+
+different ways to take a screen shot of windows
+https://learn.g2.com/how-to-take-a-screenshot-on-windows
+
+00
+The static keyword defines static methods for classes.
+
+Static methods are called directly on the class (Car from the example above) - without creating an instance/object (mycar) of the class.
+
+https://www.w3schools.com/jsref/jsref_class_static.asp
+
+00
+
+What is HTML Web Storage?
+With web storage, web applications can store data locally within the user's browser.
+
+Before HTML5, application data had to be stored in cookies, included in every server request. Web storage is more secure, and large amounts of data can be stored locally, without affecting website performance.
+
+Unlike cookies, the storage limit is far larger (at least 5MB) and information is never transferred to the server.
+
+Web storage is per origin (per domain and protocol). All pages, from one origin, can store and access the same data.
+
+https://www.w3schools.com/html/html5_webstorage.asp
+
+00
+
+The find() method returns the value of the first element in an array that pass a test (provided as a function).
+
+The find() method executes the function once for each element present in the array:
+
+If it finds an array element where the function returns a true value, find() returns the value of that array element (and does not check the remaining values)
+Otherwise it returns undefined
+Note: find() does not execute the function for empty arrays.
+
+Note: find() does not change the original array.
+
+https://www.w3schools.com/jsref/jsref_find.asp
+
+00
+
+The Promise.resolve() method returns a Promise object that is resolved with a given value. If the value is a promise, that promise is returned; if the value is a thenable (i.e. has a "then" method), the returned promise will "follow" that thenable, adopting its eventual state; otherwise the returned promise will be fulfilled with the value. This function flattens nested layers of promise-like objects (e.g. a promise that resolves to a promise that resolves to something) into a single layer.
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/resolve
+
+00
+
+The Fetch API provides a JavaScript interface for accessing and manipulating parts of the HTTP pipeline, such as requests and responses. It also provides a global fetch() method that provides an easy, logical way to fetch resources asynchronously across the network.
+
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+
+00
+
+vs code shortcuts
+
+https://dzone.com/articles/setting-custom-shortcuts-in-visual-studio-code
+
+00
+
+jquery fade method
+
+https://www.w3schools.com/jquery/jquery_fade.asp
+
+00
+
+Working with HTML5 data attributes
+
+https://www.abeautifulsite.net/working-with-html5-data-attributes
+
+00
+
+classList()
+
+The classList property returns the class name(s) of an element, as a DOMTokenList object.
+
+This property is useful to add, remove and toggle CSS classes on an element.
+
+The classList property is read-only, however, you can modify it by using the add() and remove() methods.
+
+https://www.w3schools.com/jsref/prop_element_classlist.asp
+
+00
+
+toggleClass
+animation vs..
+https://api.jqueryui.com/toggleClass/
+
+00
+
+insertAfter()  insertBefore()
+
+https://www.w3schools.com/jquery/html_insertafter.asp
+
+00
+
+clone() elements
+https://www.w3schools.com/jquery/html_clone.asp
+
+00
+jquery ui cdn  
+
+essential for addClass removeClass duration ability
+https://stackoverflow.com/questions/42393481/jquery-toggleclass-duration-not-working
+https://code.jquery.com/ui/
+
+00
+jquery show() hide() toggle()
+https://www.w3schools.com/jquery/jquery_hide_show.asp
+
+00
+
+jquery not method
+https://www.w3schools.com/jquery/traversing_not.asp
+
+00
+
+data method
+https://www.w3schools.com/jquery/misc_data.asp
+
+00
+
+filter method iyi calıs
+
+https://www.w3schools.com/jquery/jquery_filters.asp
+
+00
+https://www.w3schools.com/jquery/jquery_filters.asp
+https://stackoverflow.com/questions/1009485/filter-element-based-on-data-key-value
+
+00
+
+filter data important
+https://stackoverflow.com/questions/1009485/filter-element-based-on-data-key-value
+
+00
+
+https://stackoverflow.com/questions/14935191/adding-data-attribute-to-dom
+https://stackoverflow.com/questions/1009485/filter-element-based-on-data-key-value
+
+00
+
+animate() method
+
+https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_animation1
+
+https://www.w3schools.com/jquery/jquery_animate.asp
+
+00
+delay()
+https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_eff_delay
+
+https://www.w3schools.com/jquery/eff_delay.asp
+
+00
+
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_type_radio
+
+https://www.w3schools.com/tags/att_input_type_radio.asp
+
+00
+
+forms
+https://www.w3schools.com/html/html_forms.asp
+
+00
+
+select - option - selected
+
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_elem_select_pre
+
+00
+
+select multiple allowance
+
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_elem_select_multiple
+
+00
+
+textarea cols rows
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_elem_textarea
+
+00
+
+HTML5 <datalist> Element
+The <datalist> element specifies a list of pre-defined options for an <input> element.
+
+Users will see a drop-down list of the pre-defined options as they input data.
+
+The list attribute of the <input> element, must refer to the id attribute of the <datalist> element.
+
+<form action="/action_page.php">
+  <input list="browsers">
+  <datalist id="browsers">
+    <option value="Internet Explorer">
+    <option value="Firefox">
+    <option value="Chrome">
+    <option value="Opera">
+    <option value="Safari">
+  </datalist>
+</form>
+
+https://www.w3schools.com/html/html_form_elements.asp
+
+
+00
+
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_elem_output
+
+output
+
+000
+
+A common use of JSON is to exchange data to/from a web server.
+
+When receiving data from a web server, the data is always a string.
+
+Parse the data with JSON.parse(), and the data becomes a JavaScript object
+https://www.w3schools.com/js/js_json_parse.asp
+
+00
+redux saga request
+https://github.com/klis87/redux-saga-requests/blob/master/examples/fetch-api/src/store/index.js
+
+00
+A common use of JSON is to exchange data to/from a web server.
+
+When receiving data from a web server, the data is always a string.
+
+Parse the data with JSON.parse(), and the data becomes a JavaScript object.
+https://www.w3schools.com/js/js_json_parse.asp
+
+00
+api request json vs string vs object objects
+https://stackoverflow.com/questions/41336663/console-logresult-returns-object-object-how-do-i-get-result-name
+
+00
+A common use of JSON is to exchange data to/from a web server.
+
+When sending data to a web server, the data has to be a string.
+
+Convert a JavaScript object into a string with JSON.stringify().
+https://www.w3schools.com/js/js_json_stringify.asp
+
+00
+Math.ceil 
+yukarıya yuvarlıyor
+console.log(Math.ceil(.95));
+// expected output: 1
+
+console.log(Math.ceil(4));
+// expected output: 4
+
+console.log(Math.ceil(7.004));
+// expected output: 8
+
+console.log(Math.ceil(-7.004));
+// expected output: -7
+
+00
+Math.floor()   asagı yuvarlıyor!
+console.log(Math.floor(5.95));
+// expected output: 5
+
+console.log(Math.floor(5.05));
+// expected output: 5
+
+console.log(Math.floor(5));
+// expected output: 5
+
+console.log(Math.floor(-5.05));
+// expected output: -6
+00
+redux saga fetch axios api
+https://github.com/superlazycoder/react-redux-example/blob/React_Redux_With_Api/src/modules/ui/sagas.js
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+00
 hasOwnProperty()
 
 lizard.__proto__ = dragon;
