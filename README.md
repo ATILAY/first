@@ -1,5 +1,47 @@
 WHAT I HAVE LEARNT
+--
+https://developer.mozilla.org/en-US/docs/Web/API/Request/mode
 
+---
+https://www.youtube.com/watch?v=D_MO9vIRBcA&feature=youtu.be
+--
+https://www.youtube.com/watch?v=sXA1zpv4DhA
+--
+
+https://github.com/DefinitelyTyped/DefinitelyTyped/issues/35572 _————
+--
+https://www.w3schools.com/cssref/pr_text_text-transform.asp
+---
+https://www.youtube.com/watch?v=LimOOe6I4eo
+---
+https://www.youtube.com/watch?v=hTU1OSbnov8
+----
+https://www.youtube.com/watch?v=0iflBympZ1E
+
+----
+https://www.youtube.com/watch?v=0iflBympZ1E
+----
+https://stackoverflow.com/questions/35435042/how-can-i-define-an-array-of-objects
+----
+https://stackoverflow.com/questions/35435042/how-can-i-define-an-array-of-objects
+----
+side effects in redux saga https://www.youtube.com/watch?v=QJVdcIlqGwc
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+----
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+----
+https://www.youtube.com/watch?v=nZYJKXXMvkM
+----
+https://stackoverflow.com/questions/9535455/how-to-unzoom-chrome-console
+----
+https://developer.chrome.com/docs/devtools/shortcuts/?utm_source=devtools
+----
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
+----
+
+00
+https://www.cyishere.dev/blog/export-multiple-components-in-index-file
 
 00
 react redux hooks
@@ -66,8 +108,34 @@ state of null
 00
 
 
+peer-depencendy install as dev npm i install-peers -D https://www.codegrepper.com/code-examples/shell/how+to+install+peer+dependencies+in+react
+---
+https://www.npmjs.com/package/uuid
+----
+wifi password finding on Mac  Type in the command. security find-generic-password -ga WIFI NAME | grep “password:” https://www.mactip.net/how-to-find-a-saved-wi-fi-password-on-the-mac/
+----
+https://techstacker.com/npm-install-vs-npm--save-difference/#:~:text=enable%20it%20%3A%2D)-,What's%20the%20Difference%20Between%20npm%20install,install%20%2D%2Dsave%3F%20(2019)&text=From%20NPM5%20moving%20forward%2C%20there's,save%20yourself%20some%20unnecessary%20typing.
+----
+https://techstacker.com/npm-install-vs-npm--save-difference/#:~:text=enable%20it%20%3A%2D)-,What's%20the%20Difference%20Between%20npm%20install,install%20%2D%2Dsave%3F%20(2019)&text=From%20NPM5%20moving%20forward%2C%20there's,save%20yourself%20some%20unnecessary%20typing.
+-----
+https://tailwindcss.com/docs/responsive-design
+---
+https://stackoverflow.com/questions/30948970/how-to-disable-eslint-react-prop-types-rule-in-a-file
+---
+https://stackoverflow.com/questions/30948970/how-to-disable-eslint-react-prop-types-rule-in-a-file
+----
+async defer https://www.youtube.com/watch?v=IrHmpdORLu8
+----
+https://stackoverflow.com/questions/60062602/how-to-globally-style-dynamic-react-data-dangerouslysetinnerhtml-with-styled-c?rq=1
+----
+---
+————— media query in styled components https://jsramblings.com/how-to-use-media-queries-with-styled-components/ ———
 
-
+--
+https://reactjsexample.com/cheatsheets-for-experienced-react-developers-getting-started-with-typescript/
+--
+ react lazy load or dynamic import https://betterprogramming.pub/master-dynamic-imports-in-under-5-minutes-a0a06a4f43ae
+--
 
 
 
@@ -121,9 +189,21 @@ https://stackoverflow.com/questions/46765896/react-redux-actions-must-be-plain-o
 
 00
 
+https://stackoverflow.com/questions/23616226/insert-html-with-react-variable-statements-jsx
 
+_——— 
+lazy loading https://www.geeksforgeeks.org/what-is-lazy-loading/
+  ———
 
-
+---
+-
+-
+----
+----
+----
+--
+-----
+---
 
 
 
