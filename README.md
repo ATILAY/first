@@ -19,6 +19,10 @@ https://www.youtube.com/watch?v=D_MO9vIRBcA&feature=youtu.be
 --
 https://www.youtube.com/watch?v=sXA1zpv4DhA
 --
+**
+npm run all parallel or serial ***
+https://www.youtube.com/watch?v=IQu2k25_wBo
+**
 
 https://github.com/DefinitelyTyped/DefinitelyTyped/issues/35572 _————
 --
