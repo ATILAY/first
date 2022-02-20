@@ -115,6 +115,16 @@ https://www.youtube.com/watch?v=XQ_Op7O6XWA&list=PLeh2GWv22bmQEqQNMmhqOJm9SYyRu5
 react e ex
 
 00
+npm pre post scrpits
+https://www.youtube.com/watch?v=kwn7tHJJoLA
+---
+---
+---
+---
+---
+---
+---
+
 
 CORS err
 https://www.youtube.com/watch?time_continue=619&v=hxyp_LkKDdk&feature=emb_logo
