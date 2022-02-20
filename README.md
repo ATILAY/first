@@ -97,6 +97,9 @@ https://www.youtube.com/watch?v=YR4roPyfDQU
 react redux
 https://redux.js.org/basics/usage-with-react
 
+00
+package.json + git commits as  npm command  run into package.json **
+https://www.youtube.com/watch?v=-SaZiADGLHs
 
 00
 react redux thunk and TUT
