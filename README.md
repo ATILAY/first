@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=Ey_90l9GaAw
 ==============================================
 
 WHAT I HAVE LEARNT BELOW
+
 --
 https://developer.mozilla.org/en-US/docs/Web/API/Request/mode
 
@@ -2460,4 +2461,20 @@ GONNA DOWNLOAD BOOKS
 ---------------------------------------------------------------------------------------------------------------------------------------
 BLITZSCALING
 how google works
+
+-----------------------
+-----------------------
+-----------------------
+Learnt
+     https://dev.to/rozenmd/understanding-useeffect-the-dependency-array-obg useEffect dependency array  ——— scroll lazy load dynamic import https://www.npmjs.com/package/react-cool-inview  https://www.youtube.com/watch?v=_cccpx2Bw_g&t=150s ——— creating object in js
+https://www.freecodecamp.org/news/a-complete-guide-to-creating-objects-in-javascript-b0e2450655e8/
+ —— traditional js  dynamic import on click https://www.youtube.com/watch?v=5s5fVghc4S8  —— dynamic import button click example https://web.dev/code-splitting-with-dynamic-imports-in-nextjs/ ——  react custom scroll handler hook https://michalmuszynski.com/blog/react-scroll-handler-hook/ ——
+useMemo https://dmitripavlutin.com/react-usememo-hook/ —— useMemo 2  https://www.geeksforgeeks.org/react-js-usememo-hook/ —— multiple useInView hook https://pretagteam.com/question/how-to-use-multiple-useinview-hooks-in-the-same-react-component —— client side vs. server side render https://www.youtube.com/watch?v=f1rF9YKm1Ms —— dynamic import next js https://javascript.plainenglish.io/exploring-next-js-dynamic-import-ccb28a03e7f9  — babel plugins rules https://babeljs.io/docs/en/plugins —— branch I sil. Fetch et  — dynamic import  https://finedine.imgix.net/zU7yEKTPDs/2d5f819f-1bde-4ab1-a13c-ec7e1ca272b1.svg  https://nextjs.org/docs/advanced-features/dynamic-import   —— dynamic import  https://webdevstudios.com/2021/01/21/how-to-use-dynamic-imports-in-next-js/   https://www.better.dev/lazy-loading-next-js   https://stackoverflow.com/questions/66484409/how-to-conditionally-lazy-load-dynamic-imports-in-react   —— https://nextjs.org/docs/messages/invalid-dynamic-suspense  —— https://javascript.plainenglish.io/exploring-next-js-dynamic-import-ccb28a03e7f9   YouTube tutorials https://www.youtube.com/watch?v=mTz0GXj8NN0  https://www.youtube.com/watch?v=GU-2T7k9NfI  https://www.youtube.com/watch?v=mI_-1tbIXQI    — dynamic import react https://www.youtube.com/watch?v=ddVm53j80vc  — emotion react twin.macro https://blog.formpl.us/twin-macro-tutorial-for-beginners-styling-with-tailwind-css-and-emotion-in-react-5228c819d713
+
+— https://stackoverflow.com/questions/12812441/how-do-i-use-woff-fonts-for-my-website  —— https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp   —— https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face  —— react prop inheritance https://reactjs.org/docs/composition-vs-inheritance.html
+
+— conditional rendering in styled component https://stackoverflow.com/questions/48502647/conditional-rendering-in-styled-components  —— css filter property https://www.w3schools.com/cssref/css3_pr_filter.asp  ——— react mouse events https://stackoverflow.com/questions/29981236/how-do-you-hover-in-reactjs-onmouseleave-not-registered-during-fast-hover-ove   ——— react prop types https://reactjs.org/docs/typechecking-with-proptypes.html    —— css flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/  ———— https://stackoverflow.com/questions/60717004/how-to-change-image-src-using-props-with-styled-component-and-react  ———— https://stackoverflow.com/questions/67481013/tailwind-twin-macro-with-react-select-styled-component  ———— https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/  flex box details  —— https://www.freecodecamp.org/news/how-to-style-your-react-apps-with-less-code-using-tailwind-css-and-styled-components/   —— https://stackoverflow.com/questions/52627477/eslint-prefer-default-export-import-prefer-default-export  ——— https://stackoverflow.com/questions/52627477/eslint-prefer-default-export-import-prefer-default-export
+
+
+——— styled component  styling  comin html data https://stackoverflow.com/questions/60062602/how-to-globally-style-dynamic-react-data-dangerouslysetinnerhtml-with-styled-c?rq=1  ——  vs code formatting https://code.visualstudio.com/docs/getstarted/settings  ——— https://stackoverflow.com/questions/58726028/how-to-resolve-eslint-error-prop-spreading-is-forbidden-in-a-custom-route-com  —— https://eslint.org/docs/rules/jsx-quotes  ————   ———   html put in styled and styled css  
 
