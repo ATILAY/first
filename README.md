@@ -2478,3 +2478,4 @@ useMemo https://dmitripavlutin.com/react-usememo-hook/ —— useMemo 2 �
 
 ——— styled component  styling  comin html data https://stackoverflow.com/questions/60062602/how-to-globally-style-dynamic-react-data-dangerouslysetinnerhtml-with-styled-c?rq=1  ——  vs code formatting https://code.visualstudio.com/docs/getstarted/settings  ——— https://stackoverflow.com/questions/58726028/how-to-resolve-eslint-error-prop-spreading-is-forbidden-in-a-custom-route-com  —— https://eslint.org/docs/rules/jsx-quotes  ————   ———   html put in styled and styled css  
 
+new mac++;
