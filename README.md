@@ -1,3 +1,51 @@
+#mongodb #mongoose  #problem #casestudy  and the #solutions 
+
+#database #cloud 
+
+-------- 
+
+problem: local to mongo cloud connection problem
+
+ Error: queryTxt ENOTIMP cluster0.brcdwnx.mongodb.net
+
+  at QueryReqWrap.onresolve [as oncomplete] (node:dns:279:19) {
+
+ errno: undefined,
+
+ code: 'ENOTIMP',
+
+ syscall: 'queryTxt',
+
+ hostname: 'cluster0.brcdwnx.mongodb.net'
+
+}
+
+-------
+
+solution: 
+
+1)go https://cloud.mongodb.com/  
+
+2)click Database (left)
+
+3)(on popUp, under 'Select your driver and version' section)
+
+ change VERSION dropDOwn as 2.0.14 or earlier.
+
+4)(under Add your connection string into your application code)
+
+use mentioned string in your project!
+
+------
+
+source
+
+https://www.youtube.com/watch?v=O_RY81jeRK0
+
+
+
+#expressjs  #nodejs  #atlas  #fullstackdeveloper  JavaScript Developer.   #backenddeveloper   JavaScript Mastery #ceo.  JavaScript Application Shielding  #recruitment. JavaScript Works  #recruiting  #recruitmentcareers     JavaScript Developer   #recruiter #javascript  #javascriptdeveloper  #webdevelopment  #webdeveloper #developer #project #change 
+
 ==============================================
 FREE DEPLOY SITES ============================
 ==============================================
