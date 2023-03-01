@@ -174,6 +174,10 @@ https://www.youtube.com/watch?v=kwn7tHJJoLA
 ---
 ---
 
+mac npm err solution
+https://stackoverflow.com/questions/57407146/i-cannot-install-nodemon-in-npm-nodejs
+-----
+
 
 CORS err
 https://www.youtube.com/watch?time_continue=619&v=hxyp_LkKDdk&feature=emb_logo
