@@ -104,7 +104,10 @@ https://developer.chrome.com/docs/devtools/shortcuts/?utm_source=devtools
 ----
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
 ----
+vuestorefront npm install solution
+https://stackoverflow.com/questions/62121699/getting-error-while-trying-to-install-vuestorefront-using-npm
 
+------
 00
 https://www.cyishere.dev/blog/export-multiple-components-in-index-file
 
